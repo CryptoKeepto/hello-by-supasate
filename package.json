@@ -2,7 +2,7 @@
   "name": "hello-by-supasate",
   "version": "1.0.0",
   "description": "A silly repo for demonstrating how to publish a node package to npmjs.com",
-  "main": "src/index.js",
+  "main": "src/hello.js",
   "scripts": {
     "test": "mocha"
   },
