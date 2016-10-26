@@ -4,7 +4,7 @@
   "description": "A silly repo for demonstrating how to publish a node package to npmjs.com",
   "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/supasate/hello-by-supasate/issues"
   },
-  "homepage": "https://github.com/supasate/hello-by-supasate#readme"
+  "homepage": "https://github.com/supasate/hello-by-supasate#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
 }
