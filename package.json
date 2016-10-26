@@ -1,6 +1,6 @@
 {
   "name": "hello-by-supasate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A silly repo for demonstrating how to publish a node package to npmjs.com",
   "main": "src/hello.js",
   "scripts": {
