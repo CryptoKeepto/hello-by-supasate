@@ -1,14 +1,14 @@
 {
-  "name": "hello-supasate",
+  "name": "hello-by-supasate",
   "version": "1.0.0",
   "description": "A silly repo for demonstrating how to publish a node package to npmjs.com",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/supasate/hello-supasate.git"
+    "url": "git+https://github.com/supasate/hello-by-supasate.git"
   },
   "keywords": [
     "npm",
@@ -17,7 +17,7 @@
   "author": "Supasate Choochaisri",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/supasate/hello-supasate/issues"
+    "url": "https://github.com/supasate/hello-by-supasate/issues"
   },
-  "homepage": "https://github.com/supasate/hello-supasate#readme"
+  "homepage": "https://github.com/supasate/hello-by-supasate#readme"
 }
